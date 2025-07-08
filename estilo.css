@@ -1,0 +1,52 @@
+body {background-color: rgb(127, 221, 255);}
+
+h1 {color: rgb(219, 22, 147); text-align: center;}    
+
+p {font-size: 28px; text-align: justify;}
+
+ul li {margin-bottom: 30px;}
+
+.foto {
+  width: 300px;          
+  height: auto;          
+  border-radius: 15px;   
+}
+
+.tabela {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: sans-serif;
+}
+
+th {
+  background-color: #e4ed80;
+  padding: 12px;
+  text-align: left;
+}
+
+td {
+  padding: 10px;
+  border-bottom: 1px solid #272424;
+}
+
+tr:hover {
+  background-color: #08d73f;
+}
+
+
+a {
+  color: blue;             
+  text-decoration: none;   
+}
+
+a:hover {
+  color: red;              
+}
+
+
+
+
+
+
+
+
